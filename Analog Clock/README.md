@@ -2,4 +2,4 @@
 
 Made with HTML, Bootstrap and Javascript
 
-Works the same way as a Analog Clock in our home.
+It works as the same way, as an Analog Clock works in our home.
